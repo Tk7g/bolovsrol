@@ -1,0 +1,5 @@
+C:\Program Files\AMD APP\bin\x86;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;
+C:\Program Files\ATI Technologies\ATI.ACE\Core-Static\https://www.facebook.com/tk.emuujin;%USERPROFILE%\.dnx\bin;C:\xampp\mysql\bin;C:\xampp\php;
+C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;
+C:\ProgramData\ComposerSetup\bin;
+C:\Users\tulgaa.a.NIISLEL\AppData\Roaming\Composer\vendor\bin
