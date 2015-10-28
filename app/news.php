@@ -19,7 +19,7 @@ class News extends Model
      *
      * @var string
      */
-    protected $table = 'news';
+    //protected $table = 'news';
 
     /**
      * The attributes that are mass assignable.

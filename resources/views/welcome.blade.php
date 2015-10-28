@@ -37,6 +37,7 @@
     </head>
     <body>
         <div class="container">
+		{{News::find(1)}}
             <div class="content">
                 <div class="title">Laravel 5</div>
             </div>
